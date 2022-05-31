@@ -34,8 +34,8 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
-  color: var(--light);
+  background: var(--light);
+  color: var(--dark);
   font-family: 'Poiret One', cursive;
 
 }
@@ -188,11 +188,13 @@ textarea {
 .mx-1 {
   margin-right: var(--spacing-one);
   margin-left: var(--spacing-one);
+  color: #fafafa;
 }
 
 .mx-2 {
   margin-right: var(--spacing-two);
   margin-left: var(--spacing-two);
+  color: #fafafa;
 }
 
 .my-1 {
